@@ -3,9 +3,9 @@ package epochcheck
 import (
 	"errors"
 
-	"github.com/galaxy-digital/lachesis-base/inter/dag"
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
-	"github.com/galaxy-digital/lachesis-base/inter/pos"
+	"github.com/idealbridgex/lachesis-base/inter/dag"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/inter/pos"
 )
 
 var (

@@ -3,7 +3,7 @@ package wlru
 import (
 	"sync"
 
-	"github.com/galaxy-digital/lachesis-base/utils/simplewlru"
+	"github.com/idealbridgex/lachesis-base/utils/simplewlru"
 )
 
 // Cache is a thread-safe fixed size LRU cache.

@@ -3,7 +3,7 @@ package hash
 import (
 	"sync"
 
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
 )
 
 var (

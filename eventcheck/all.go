@@ -1,10 +1,10 @@
 package eventcheck
 
 import (
-	"github.com/galaxy-digital/lachesis-base/eventcheck/basiccheck"
-	"github.com/galaxy-digital/lachesis-base/eventcheck/epochcheck"
-	"github.com/galaxy-digital/lachesis-base/eventcheck/parentscheck"
-	"github.com/galaxy-digital/lachesis-base/inter/dag"
+	"github.com/idealbridgex/lachesis-base/eventcheck/basiccheck"
+	"github.com/idealbridgex/lachesis-base/eventcheck/epochcheck"
+	"github.com/idealbridgex/lachesis-base/eventcheck/parentscheck"
+	"github.com/idealbridgex/lachesis-base/inter/dag"
 )
 
 // Checkers is collection of all the checkers

@@ -13,7 +13,7 @@ import (
 	"github.com/syndtr/goleveldb/leveldb/opt"
 	"github.com/syndtr/goleveldb/leveldb/util"
 
-	"github.com/galaxy-digital/lachesis-base/kvdb"
+	"github.com/idealbridgex/lachesis-base/kvdb"
 )
 
 const (

@@ -1,9 +1,9 @@
 package ancestor
 
 import (
-	"github.com/galaxy-digital/lachesis-base/hash"
-	"github.com/galaxy-digital/lachesis-base/inter/dag"
-	"github.com/galaxy-digital/lachesis-base/utils/wlru"
+	"github.com/idealbridgex/lachesis-base/hash"
+	"github.com/idealbridgex/lachesis-base/inter/dag"
+	"github.com/idealbridgex/lachesis-base/utils/wlru"
 )
 
 type PayloadIndexer struct {

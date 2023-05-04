@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/galaxy-digital/lachesis-base/kvdb"
+	"github.com/idealbridgex/lachesis-base/kvdb"
 )
 
 type Producer struct {

@@ -3,11 +3,11 @@ package vecfc
 import (
 	"testing"
 
-	"github.com/galaxy-digital/lachesis-base/hash"
-	"github.com/galaxy-digital/lachesis-base/inter/dag"
-	"github.com/galaxy-digital/lachesis-base/inter/dag/tdag"
-	"github.com/galaxy-digital/lachesis-base/inter/pos"
-	"github.com/galaxy-digital/lachesis-base/kvdb/memorydb"
+	"github.com/idealbridgex/lachesis-base/hash"
+	"github.com/idealbridgex/lachesis-base/inter/dag"
+	"github.com/idealbridgex/lachesis-base/inter/dag/tdag"
+	"github.com/idealbridgex/lachesis-base/inter/pos"
+	"github.com/idealbridgex/lachesis-base/kvdb/memorydb"
 )
 
 var (

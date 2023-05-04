@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/galaxy-digital/lachesis-base/utils/wlru"
-	"github.com/galaxy-digital/lachesis-base/utils/workers"
+	"github.com/idealbridgex/lachesis-base/utils/wlru"
+	"github.com/idealbridgex/lachesis-base/utils/workers"
 )
 
 /*

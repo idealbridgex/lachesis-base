@@ -7,7 +7,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
 )
 
 type (

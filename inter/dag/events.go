@@ -3,8 +3,8 @@ package dag
 import (
 	"strings"
 
-	"github.com/galaxy-digital/lachesis-base/hash"
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/hash"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
 )
 
 // Events is a ordered slice of events.

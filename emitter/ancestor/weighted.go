@@ -1,7 +1,7 @@
 package ancestor
 
 import (
-	"github.com/galaxy-digital/lachesis-base/hash"
+	"github.com/idealbridgex/lachesis-base/hash"
 )
 
 type MetricStrategy struct {

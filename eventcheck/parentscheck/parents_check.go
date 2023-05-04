@@ -3,8 +3,8 @@ package parentscheck
 import (
 	"errors"
 
-	"github.com/galaxy-digital/lachesis-base/inter/dag"
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/inter/dag"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
 )
 
 var (

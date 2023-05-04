@@ -4,13 +4,13 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/galaxy-digital/lachesis-base/hash"
-	"github.com/galaxy-digital/lachesis-base/inter/dag"
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
-	"github.com/galaxy-digital/lachesis-base/inter/pos"
-	"github.com/galaxy-digital/lachesis-base/kvdb"
-	"github.com/galaxy-digital/lachesis-base/kvdb/flushable"
-	"github.com/galaxy-digital/lachesis-base/kvdb/table"
+	"github.com/idealbridgex/lachesis-base/hash"
+	"github.com/idealbridgex/lachesis-base/inter/dag"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/inter/pos"
+	"github.com/idealbridgex/lachesis-base/kvdb"
+	"github.com/idealbridgex/lachesis-base/kvdb/flushable"
+	"github.com/idealbridgex/lachesis-base/kvdb/table"
 )
 
 type Callbacks struct {

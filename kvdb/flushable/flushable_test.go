@@ -14,11 +14,11 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"github.com/galaxy-digital/lachesis-base/common/bigendian"
-	"github.com/galaxy-digital/lachesis-base/kvdb"
-	"github.com/galaxy-digital/lachesis-base/kvdb/leveldb"
-	"github.com/galaxy-digital/lachesis-base/kvdb/memorydb"
-	"github.com/galaxy-digital/lachesis-base/kvdb/table"
+	"github.com/idealbridgex/lachesis-base/common/bigendian"
+	"github.com/idealbridgex/lachesis-base/kvdb"
+	"github.com/idealbridgex/lachesis-base/kvdb/leveldb"
+	"github.com/idealbridgex/lachesis-base/kvdb/memorydb"
+	"github.com/idealbridgex/lachesis-base/kvdb/table"
 )
 
 func TestFlushable(t *testing.T) {

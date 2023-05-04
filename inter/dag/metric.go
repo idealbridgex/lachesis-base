@@ -3,7 +3,7 @@ package dag
 import (
 	"fmt"
 
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
 )
 
 type Metric struct {

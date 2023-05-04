@@ -1,8 +1,8 @@
 package abft
 
 import (
-	"github.com/galaxy-digital/lachesis-base/hash"
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/hash"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
 )
 
 // SetEventConfirmedOn stores confirmed event hash.

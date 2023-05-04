@@ -1,7 +1,7 @@
 package idx
 
 import (
-	"github.com/galaxy-digital/lachesis-base/common/bigendian"
+	"github.com/idealbridgex/lachesis-base/common/bigendian"
 )
 
 type (

@@ -1,15 +1,15 @@
 package vecfc
 
 import (
-	"github.com/galaxy-digital/lachesis-base/hash"
-	"github.com/galaxy-digital/lachesis-base/inter/dag"
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
-	"github.com/galaxy-digital/lachesis-base/inter/pos"
-	"github.com/galaxy-digital/lachesis-base/kvdb"
-	"github.com/galaxy-digital/lachesis-base/kvdb/table"
-	"github.com/galaxy-digital/lachesis-base/utils/cachescale"
-	"github.com/galaxy-digital/lachesis-base/utils/simplewlru"
-	"github.com/galaxy-digital/lachesis-base/vecengine"
+	"github.com/idealbridgex/lachesis-base/hash"
+	"github.com/idealbridgex/lachesis-base/inter/dag"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/inter/pos"
+	"github.com/idealbridgex/lachesis-base/kvdb"
+	"github.com/idealbridgex/lachesis-base/kvdb/table"
+	"github.com/idealbridgex/lachesis-base/utils/cachescale"
+	"github.com/idealbridgex/lachesis-base/utils/simplewlru"
+	"github.com/idealbridgex/lachesis-base/vecengine"
 )
 
 // IndexCacheConfig - config for cache sizes of Engine

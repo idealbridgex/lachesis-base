@@ -1,10 +1,10 @@
 package adapters
 
 import (
-	"github.com/galaxy-digital/lachesis-base/abft/dagidx"
-	"github.com/galaxy-digital/lachesis-base/hash"
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
-	"github.com/galaxy-digital/lachesis-base/vecfc"
+	"github.com/idealbridgex/lachesis-base/abft/dagidx"
+	"github.com/idealbridgex/lachesis-base/hash"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/vecfc"
 )
 
 type VectorSeqToDagIndexSeq struct {

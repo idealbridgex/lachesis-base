@@ -4,11 +4,11 @@ import (
 	"math"
 	"sync"
 
-	"github.com/galaxy-digital/lachesis-base/eventcheck"
-	"github.com/galaxy-digital/lachesis-base/hash"
-	"github.com/galaxy-digital/lachesis-base/inter/dag"
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
-	"github.com/galaxy-digital/lachesis-base/utils/wlru"
+	"github.com/idealbridgex/lachesis-base/eventcheck"
+	"github.com/idealbridgex/lachesis-base/hash"
+	"github.com/idealbridgex/lachesis-base/inter/dag"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/utils/wlru"
 )
 
 type (

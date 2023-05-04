@@ -1,4 +1,4 @@
-module github.com/galaxy-digital/lachesis-base
+module github.com/idealbridgex/lachesis-base
 
 go 1.14
 

@@ -1,7 +1,7 @@
 package skiperrors
 
 import (
-	"github.com/galaxy-digital/lachesis-base/kvdb"
+	"github.com/idealbridgex/lachesis-base/kvdb"
 )
 
 // wrapper is a kvdb.Store wrapper around any kvdb.Store.

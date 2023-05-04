@@ -3,8 +3,8 @@ package dag
 import (
 	"fmt"
 
-	"github.com/galaxy-digital/lachesis-base/hash"
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/hash"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
 )
 
 type Event interface {

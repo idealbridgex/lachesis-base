@@ -3,9 +3,9 @@ package abft
 import (
 	"errors"
 
-	"github.com/galaxy-digital/lachesis-base/abft/election"
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
-	"github.com/galaxy-digital/lachesis-base/inter/pos"
+	"github.com/idealbridgex/lachesis-base/abft/election"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/inter/pos"
 )
 
 const (

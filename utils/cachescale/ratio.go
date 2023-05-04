@@ -1,7 +1,7 @@
 package cachescale
 
 import (
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
 )
 
 // Ratio alters the cache sizes proportionally to a ratio

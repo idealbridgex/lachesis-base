@@ -5,11 +5,11 @@ import (
 
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/galaxy-digital/lachesis-base/inter/idx"
-	"github.com/galaxy-digital/lachesis-base/kvdb"
-	"github.com/galaxy-digital/lachesis-base/kvdb/memorydb"
-	"github.com/galaxy-digital/lachesis-base/kvdb/table"
-	"github.com/galaxy-digital/lachesis-base/utils/simplewlru"
+	"github.com/idealbridgex/lachesis-base/inter/idx"
+	"github.com/idealbridgex/lachesis-base/kvdb"
+	"github.com/idealbridgex/lachesis-base/kvdb/memorydb"
+	"github.com/idealbridgex/lachesis-base/kvdb/table"
+	"github.com/idealbridgex/lachesis-base/utils/simplewlru"
 )
 
 // Store is a abft persistent storage working over parent key-value database.
